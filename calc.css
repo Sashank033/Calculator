@@ -1,0 +1,22 @@
+.center {
+    width: 400px; ;
+    margin: 0 auto;
+}
+h1{
+    font-family: 'Lora', serif;
+}
+p{
+    font-size: 20px;
+}
+body{
+    background-color:lightslategray;
+    background-image: url('cal.jpg');
+}
+input{
+    font-size: 20px;
+}
+button{
+    font-size: 15px;
+    width: 80px;
+    height: 30px;
+}
